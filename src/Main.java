@@ -149,7 +149,7 @@ public class Main {
                     System.out.println("finito");
                     break;
                 } else {
-                    System.out.println("non è un numero validwpaibgpawbgpbigwa");
+                    System.out.println("non è un numero wapifbngapoiwgbapoibghw0iawbgfoèpjw");
                 }
             } else {
                 System.err.println("non è validpoiahewpohawgawgawg");
