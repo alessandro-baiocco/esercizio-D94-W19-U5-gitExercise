@@ -18,6 +18,10 @@ public class Main {
         File[] arrayDiFile = new File[5];
         String[] nomi = new String[5];
 
+
+        System.out.println("modifica 1");
+        System.out.println("modifica 2");
+
         //creazione file
 
         esternoPrimo:
@@ -72,7 +76,7 @@ public class Main {
                 }
             }
         }
-        
+
         //riproduci
         esternoSecondo:
         while (true) {
@@ -149,10 +153,10 @@ public class Main {
                     System.out.println("finito");
                     break;
                 } else {
-                    System.out.println("non è un numero valido");
+                    System.out.println("non è un numero wapifbngapoiwgbapoibghw0iawbgfoèpjw");
                 }
             } else {
-                System.err.println("non è valido");
+                System.err.println("non è validpoiahewpohawgawgawg");
                 break;
             }
         }
