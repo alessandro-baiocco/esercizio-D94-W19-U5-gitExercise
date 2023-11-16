@@ -150,6 +150,7 @@ public class Main {
                     break;
                 } else {
                     System.out.println("non è un numero valido");
+                    System.err.println("aggiungiamo roba a caso");
                 }
             } else {
                 System.err.println("non è validpoawnhf'p9ahwf");
