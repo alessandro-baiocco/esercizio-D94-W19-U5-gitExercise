@@ -72,7 +72,7 @@ public class Main {
                 }
             }
         }
-        
+
         //riproduci
         esternoSecondo:
         while (true) {
@@ -149,10 +149,10 @@ public class Main {
                     System.out.println("finito");
                     break;
                 } else {
-                    System.out.println("non è un numero valido");
+                    System.out.println("non è un numero validwpaibgpawbgpbigwa");
                 }
             } else {
-                System.err.println("non è valido");
+                System.err.println("non è validpoiahewpohawgawgawg");
                 break;
             }
         }
