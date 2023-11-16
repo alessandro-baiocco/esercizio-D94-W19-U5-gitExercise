@@ -18,6 +18,10 @@ public class Main {
         File[] arrayDiFile = new File[5];
         String[] nomi = new String[5];
 
+
+        System.out.println("modifica 1");
+        System.out.println("hotfix 2");
+
         //creazione file
 
         esternoPrimo:
