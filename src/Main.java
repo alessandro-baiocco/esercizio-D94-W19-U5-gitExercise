@@ -147,6 +147,7 @@ public class Main {
                     //---------------------------------------uscire------------------------------------
                 } else if (userInput == 0) {
                     System.out.println("finito");
+                    System.out.println("funzionalita inutile messa qui a caso");
                     break;
                 } else {
                     System.out.println("non è un numero wapifbngapoiwgbapoibghw0iawbgfoèpjw");
