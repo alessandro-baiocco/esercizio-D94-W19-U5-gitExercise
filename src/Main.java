@@ -72,7 +72,7 @@ public class Main {
                 }
             }
         }
-        
+
         //riproduci
         esternoSecondo:
         while (true) {
@@ -152,7 +152,7 @@ public class Main {
                     System.out.println("non è un numero valido");
                 }
             } else {
-                System.err.println("non è valido");
+                System.err.println("non è validpoawnhf'p9ahwf");
                 break;
             }
         }
